@@ -13,3 +13,7 @@
 
 - [Django Rest Framework 레시피](https://www.44bits.io/ko/post/django-rest-framework-recipes-korean)
 - [권태형님 블로그](https://taebbong.github.io/)
+
+# Python
+
+- [Python 멀티 스레드(Thread)와 멀티 프로세스(Process)](https://monkey3199.github.io/develop/python/2018/12/04/python-pararrel.html)
